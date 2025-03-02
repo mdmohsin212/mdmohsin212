@@ -9,6 +9,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=mdmohsin212&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmohsin212&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+![](https://raw.githubusercontent.com/mohsin416/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mohsin416/cf-stats/main/output/light_card.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mdmohsin212&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
