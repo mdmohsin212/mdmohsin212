@@ -73,8 +73,10 @@ Beyond web development, I am deeply interested in **Machine Learning and Artific
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmohsin212&theme=dracula" alt="Streak Stats">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mdmohsin212&theme=dracula&hide_border=false" />
 </p>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
