@@ -89,3 +89,7 @@ Beyond web development, I am deeply interested in **Machine Learning and Artific
 ## 💡 Random Dev Quote  
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
