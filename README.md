@@ -2,10 +2,13 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" style="display:inline;">
 
 <p align="center">
-  <p align="center">
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=f66c92&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Mohsin+👋;Backend+Developer+%7C+Django+%7C+DRF;Problem+Solver+%7C+C+%7C+C%2B%2B;" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=f66c92&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Mohsin+👋;Backend+Developer+%7C+Django+%7C+DRF;Problem+Solver+%7C+C+%7C+C%2B%2B;"
+    alt="Typing SVG"
+  />
 </p>
+
+
 
 </p>
 
