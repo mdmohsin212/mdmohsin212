@@ -74,10 +74,10 @@ I am **Md Mohsin**, a passionate **backend developer** from 🇧🇩 **Narayanga
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdmohsin212&show_icons=true&theme=dracula" alt="Mohsin's GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmohsin212&layout=compact&theme=dracula" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdmohsin212&show_icons=true&theme=dracula" alt="Mohsin's GitHub Stats" height="165" width="420">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmohsin212&layout=compact&theme=dracula" alt="Top Languages" height="165" width="320">
 </p>
- 
+
 
 
 <p align="center">
