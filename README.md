@@ -79,14 +79,9 @@ I am **Md Mohsin**, a passionate **backend developer** from 🇧🇩 **Narayanga
 </p>
 
 
-<!-- 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mdmohsin212&theme=dracula&hide_border=false" />
-</p>
--->
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdmohsin212&theme=dracula&hide_border=false" alt="mdmohsin212" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mdmohsin212&theme=dracula&hide_border=false" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
