@@ -3,54 +3,56 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=f66c92&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Mohsin+👋;Backend+Developer+%7C+Django+%7C+DRF;Problem+Solver+%7C+C+%7C+C%2B%2B;"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=f66c92&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Mohsin+👋;AI%2FML+Developer+%7C+NLP+%7C+Computer+Vision;LLMs+%7C+Fine-tuning+%7C+RAG+%7C+MLOps;Problem+Solver+%7C+Python+%7C+C%2B%2B;"
     alt="Typing SVG"
   />
 </p>
 
-
-
-</p>
-
-</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 👨‍💻 About Me  
 
-I am **Md Mohsin**, a passionate **backend developer** from 🇧🇩 **Narayanganj**. My love for **problem-solving 🧩** has led me to compete on platforms like **Codeforces, CodeChef, and LeetCode**, where I primarily use **C++ 🚀** to tackle algorithmic challenges.  
+I’m **Md Mohsin**, an **AI/ML Developer** from 🇧🇩 **Narayanganj**. I build **end-to-end machine learning systems** — from **data + training** to **evaluation + deployment**.  
 
-💻 With expertise in **Django** and **Django REST Framework (DRF)**, I specialize in building **scalable, high-performance REST APIs 🔗**. While my core strength lies in backend development, I also work on **responsive web interfaces 🎨** to craft seamless user experiences.  
+🧠 My main interests include **NLP**, **Computer Vision**, and **LLM-based applications** like **fine-tuning** and **RAG (Retrieval-Augmented Generation)**. I care a lot about **clean experiments**, **reproducible pipelines**, and **real-world performance** (not just accuracy).  
 
-🤖 Beyond web development, I am deeply interested in **Machine Learning and Artificial Intelligence**. I love exploring **ML models, data science concepts 📊, and AI-driven applications**, aiming to integrate intelligent solutions into my projects.  
+🧩 I also enjoy **problem-solving** and algorithmic practice (Codeforces/CodeChef/LeetCode), which helps me write efficient, reliable code for ML systems.  
 
-🚀 Always eager to learn and innovate! ✨
-
- 
+🚀 Always learning, always building.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 <h2>
-  <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>&nbsp;&nbsp; Technologies and Tools:
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width="36px">&nbsp;&nbsp; Technologies and Tools:
 </h2>
 
+<!-- Core -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<!-- ML/DL -->
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<!-- NLP / LLM -->
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-111111?style=for-the-badge&logo=OpenAI&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- MLOps / Deployment -->
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<!-- Data -->
 ![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+<!-- Optional hosting (keep if you actually use) -->
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
