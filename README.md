@@ -1,6 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" style="display:inline;">
 
+
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=f66c92&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Mohsin+👋;AI%2FML+Developer+%7C+NLP+%7C+Computer+Vision;LLMs+%7C+Fine-tuning+%7C+RAG+%7C+MLOps;Problem+Solver+%7C+Python+%7C+C%2B%2B;"
