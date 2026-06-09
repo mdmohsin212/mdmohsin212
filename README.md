@@ -77,28 +77,29 @@ I’m **Md Mohsin**, an **AI/ML Developer** from 🇧🇩 **Narayanganj**. I bui
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdmohsin212&show_icons=true&theme=dracula" alt="Mohsin's GitHub Stats" height="165" width="420">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmohsin212&layout=compact&theme=dracula" alt="Top Languages" height="165" width="320">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mdmohsin212&show_icons=true&theme=dracula" alt="Mohsin's GitHub Stats" height="165" width="420">
+
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdmohsin212&layout=compact&theme=dracula" alt="Top Languages" height="165" width="320">
 </p>
 
-
-
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mdmohsin212&theme=dracula&hide_border=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmohsin212&&theme=dracula&hide_border=false" alt="mdmohsin212" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 ## 🏆 GitHub Trophies  
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mdmohsin212&theme=algolia&no-frame=true&row=1)
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=mdmohsin212&theme=algolia&no-frame=true&row=1" alt="GitHub Trophies">
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💡 Random Dev Quote  
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote">
+</p>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
