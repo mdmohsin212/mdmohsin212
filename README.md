@@ -68,7 +68,6 @@ I’m **Md Mohsin**, an **AI/ML Developer** from 🇧🇩 **Narayanganj**. I bui
   <a href="https://mohsin416.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-
   <a href="mailto:siam.mohsin2005@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
